@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 908fa302-24e6-527f-679d-14199268d90b
 resourcetype: Document
 title: Journal or Conference Paper Review Assignment
 uid: 69009d1e-8a69-bd64-8517-bc7ee93f94c0

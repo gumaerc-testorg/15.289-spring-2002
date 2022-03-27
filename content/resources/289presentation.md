@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e79e08e1-18ba-00c3-06df-c68fe0bf2f40
 resourcetype: Document
 title: Giving Oral Presentations
 uid: 4c878edf-593a-c37a-b28c-98d44cc4667a

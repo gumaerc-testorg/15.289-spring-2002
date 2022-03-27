@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e79e08e1-18ba-00c3-06df-c68fe0bf2f40
 resourcetype: Document
 title: 'Writing Peer Reviews of Manuscripts '
 uid: 937e6136-63da-c44e-798b-ff1136609b25

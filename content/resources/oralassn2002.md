@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 908fa302-24e6-527f-679d-14199268d90b
 resourcetype: Document
 title: Oral Presentation Assignment
 uid: bb34a577-694d-c249-e62e-fc6e391beec2
