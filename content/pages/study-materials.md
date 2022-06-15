@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a checklist for reviewing long papers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
