@@ -6,6 +6,7 @@ file: /courses/15-289-communication-skills-for-academics-spring-2002/280b6ae19da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Written Assignment
 uid: 280b6ae1-9da3-b4f4-1fcc-e56f13d78aad
 ---
 Assignment to write a paper in one of the standard academic genres such as journal article, conference paper, or proposal. 
-

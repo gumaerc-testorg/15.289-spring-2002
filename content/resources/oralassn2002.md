@@ -6,6 +6,7 @@ file: /courses/15-289-communication-skills-for-academics-spring-2002/bb34a577694
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Oral Presentation Assignment
 uid: bb34a577-694d-c249-e62e-fc6e391beec2
 ---
 Assignment to give a 15-20 minute presentation, with visual aids, on some piece of your research.
-
