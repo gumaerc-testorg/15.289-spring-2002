@@ -2,6 +2,7 @@
 content_type: resource
 description: Tips on giving an oral presentation.
 file: /courses/15-289-communication-skills-for-academics-spring-2002/4c878edf593ac37ab28c98d44cc4667a_289presentation.pdf
+file_size: 108924
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

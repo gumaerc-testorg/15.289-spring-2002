@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to write and revise a review of an article or conference paper.
 file: /courses/15-289-communication-skills-for-academics-spring-2002/69009d1e8a69bd648517bc7ee93f94c0_peer_rev_assn_2002.pdf
+file_size: 56025
 file_type: application/pdf
 learning_resource_types:
 - Assignments
