@@ -3,7 +3,7 @@ content_type: resource
 description: Guidelines on writing peer reviews of manuscripts, including the purpose
   of a review, responding to scaled questions, writing comments to authors, and the
   ethics and norms of reviewing.
-file: /courses/15-289-communication-skills-for-academics-spring-2002/937e613663dac44e798bff1136609b25_teach_note_pee_rev.pdf
+file: /ol-ocw-studio-app/courses/15-289-communication-skills-for-academics-spring-2002/937e613663dac44e798bff1136609b25_teach_note_pee_rev.pdf
 file_size: 104380
 file_type: application/pdf
 learning_resource_types:
