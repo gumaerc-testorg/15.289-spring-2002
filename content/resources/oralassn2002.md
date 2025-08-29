@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to give a 15-20 minute presentation, with visual aids, on
   some piece of your research.
-file: /courses/15-289-communication-skills-for-academics-spring-2002/bb34a577694dc249e62efc6e391beec2_oralassn2002.pdf
+file: /ol-ocw-studio-app/courses/15-289-communication-skills-for-academics-spring-2002/bb34a577694dc249e62efc6e391beec2_oralassn2002.pdf
 file_size: 66354
 file_type: application/pdf
 learning_resource_types:
